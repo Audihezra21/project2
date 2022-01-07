@@ -1,0 +1,31 @@
+.container-about  {
+    height: 600px;
+}
+.container-about .col {
+    padding-top: 50px;
+}
+
+.container-about .col-4 {
+    margin-top: 100px;
+}
+.jumbotron{
+    padding-top: 150px;
+    background-color: #d1d1d1;
+    height: 600px;
+}
+
+.container-skill {
+    background-color: #d1d1d1;
+    height: 600px;
+    padding-top: 150px;
+}
+
+.container-skill img {
+    padding-top: 100px;
+}
+
+
+.container-contact {
+    
+    padding-top: 70px;
+}
